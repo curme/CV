@@ -1,5 +1,5 @@
 # CV
-Personal CV [here](https://github.com/curme/CV/blob/master/CV%20-%20ZHAN%20Hui.pdf)
+Personal CV [[here]](https://github.com/curme/CV/blob/master/CV%20-%20ZHAN%20Hui.pdf)
 # Projects
 Bachelor Degree Graduation Project:  
-- Multi-Social Media Based Individual information Fusion [here](https://github.com/curme/CV/blob/master/projects/Graduation%20Project/indroduction%20ppt.pdf)
+- Multi-Social Media Based Individual information Fusion [[here]](https://github.com/curme/CV/blob/master/projects/Graduation%20Project/indroduction%20ppt.pdf)
